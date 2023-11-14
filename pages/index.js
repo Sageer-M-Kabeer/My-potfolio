@@ -65,7 +65,7 @@ export default function Home() {
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href="https://github.com/Sageer-M-Kabeer" rel="noreferrer" target="_blank"><AiFillGithub className="text-2xl cursor-pointer" /></a>
               <a href="https://www.linkedin.com/in/sagir-muhammad-088b8418a" rel="noreferrer" target="_blank"><AiFillLinkedin className="text-2xl cursor-pointer"/></a>
-              <a href="https://www.wa.me/+2348147354770"><AiOutlineWhatsApp className="text-2xl cursor-pointer"/></a>
+              <a href="https://wa.me/+2348147354770"><AiOutlineWhatsApp className="text-2xl cursor-pointer"/></a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-56
             h-56 relative overflow-hidden mt-20 md:h-80 md:w-80 lg:h-96 lg:w-96">
